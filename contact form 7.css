@@ -1,0 +1,53 @@
+/*Contact form*/
+.deoopdown_form {
+    display: flex;
+    justify-content: space-between;
+}
+.continer_form {
+    text-align: center;
+}
+.contactform_one {
+    width: 33%;
+}
+
+.contactform_two {
+    width: 33%;
+}
+.contactform_three {
+    width: 33%;
+}
+
+
+      /*request form*/
+.form_requestone {
+    display: flex;
+    justify-content: center;
+}
+.form_request-two {
+    display: flex;
+    justify-content: center;
+}
+.form_one {
+    width: 50%;
+    padding: 10px 3px 10px 3px;
+}
+.form_two {
+    width: 50%;
+	  padding: 10px 3px 10px 3px;
+}
+
+
+.form_thre {
+	width: 50%;
+	padding: 10px 3px 10px 3px;
+}
+.form_four {
+    width: 50%;
+	padding: 10px 3px 10px 3px;
+}
+.form_button {
+    text-align: center;
+    margin-left: 75px;
+    padding: 20px;
+} 
+
